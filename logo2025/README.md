@@ -1,4 +1,4 @@
-[<img width="100" align="right" src="logo2025-grad.png">](#)
+[<img width="100" align="left" src="logo2025-grad.png">](#)
 
 ### zer0ken/branding/logo2025
 
