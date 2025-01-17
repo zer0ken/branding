@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-        <th><a href="./logo2025/"><code>branding/logo</code></a></th>
+        <th><a href="./logo2025/"><code>branding/logo2025</code></a></th>
         <th><a href="./colors/"><code>branding/colors</code></a></th>
     </tr>
     <tr>
