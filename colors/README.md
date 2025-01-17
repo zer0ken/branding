@@ -15,4 +15,4 @@
 
 ### [`zer0ken/logo2025`](../logo2025/)
 
-[<img src="https://img.shields.io/badge/zer0ken%20midnight-%23292d3e-292d3e" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#4959cc)
+[<img src="https://img.shields.io/badge/zer0ken%20midnight-%23292d3e-292d3e" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#292d3e)
