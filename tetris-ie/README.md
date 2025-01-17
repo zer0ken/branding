@@ -1,5 +1,4 @@
 [<img align="left" src="icon.png">](#)
 
-### zer0ken/branding/tetris-ie
-
-`zer0ken/tetrie-ie`에 사용된 아이콘 디자인입니다.
+### `branding/tetris-ie`
+[`tetris-ie`](https://github.com/zer0ken/tetris-ie)에서 사용된 아이콘 디자인입니다.
