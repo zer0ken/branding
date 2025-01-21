@@ -23,7 +23,7 @@
             </a>
         </td>
         <td align=center><a href="./tetris-ie/"><img src="tetris-ie/icon.png"></a></td>
-        <td align=center><a href="./act2025/"><img width="100" src="act2025/act2025-logo-on-midnight.png"></a></td>
+        <td align=center><a href="./act2025/"><img width="100" src="act2025/act2025-logo.png"></a></td>
     </tr>
     <tr>
         <th colspan="999"><a href="./name-banner/"><code>branding/name-banner</code></a></th>
