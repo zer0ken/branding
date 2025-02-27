@@ -11,6 +11,7 @@
         <th><a href="./colors/"><code>colors</code></a></th>
         <th><a href="./tetris-ie/"><code>tetris-ie</code></a></th>
         <th><a href="./act2025/"><code>act2025</code></a></th>
+        <th><a href="./8ollow-me/"><code>8ollow-me</code></a></th>
     </tr>
     <tr>
         <td align=center><a href="./logo2025/"><img width="100" src="logo2025/logo2025-grad.png"></a></td>
@@ -25,12 +26,6 @@
         </td>
         <td align=center><a href="./tetris-ie/"><img src="tetris-ie/icon.png"></a></td>
         <td align=center><a href="./act2025/"><img width="100" src="act2025/act2025-logo.png"></a></td>
-    </tr>
-    <!-- 2행 -->
-    <tr>
-        <th><a href="./8ollow-me/"><code>8ollow-me</code></a></th>
-    </tr>
-    <tr>
         <td align=center><a href="./8ollow-me/"><img width="100" src="8ollow-me/투명.png"></a></td>
     </tr>
 </table>
