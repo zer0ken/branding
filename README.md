@@ -5,11 +5,12 @@
 개인 디자인 작업물을 백업하기 위한 리포지토리입니다.
 
 <table>
+    <!-- 1행 -->
     <tr>
-        <th><a href="./logo2025/"><code>branding/logo2025</code></a></th>
-        <th><a href="./colors/"><code>branding/colors</code></a></th>
-        <th><a href="./tetris-ie/"><code>branding/tetris-ie</code></a></th>
-        <th><a href="./act2025/"><code>branding/act2025</code></a></th>
+        <th><a href="./logo2025/"><code>logo2025</code></a></th>
+        <th><a href="./colors/"><code>colors</code></a></th>
+        <th><a href="./tetris-ie/"><code>tetris-ie</code></a></th>
+        <th><a href="./act2025/"><code>act2025</code></a></th>
     </tr>
     <tr>
         <td align=center><a href="./logo2025/"><img width="100" src="logo2025/logo2025-grad.png"></a></td>
