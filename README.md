@@ -25,7 +25,7 @@
             </a>
         </td>
         <td align=center><a href="./tetris-ie/"><img src="tetris-ie/icon.png"></a></td>
-        <td align=center><a href="./act2025/"><img width="100" src="act2025/act2025-logo.png"></a></td>
+        <td align=center><a href="./act2025/"><img width="100" src="act2025/오리지널.png"></a></td>
         <td align=center><a href="./8ollow-me/"><img width="100" src="8ollow-me/투명.png"></a></td>
     </tr>
 </table>
