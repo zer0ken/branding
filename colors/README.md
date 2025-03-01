@@ -22,3 +22,11 @@
 [<img src="https://img.shields.io/badge/Rogun%20Blue-%234a60dd-4a60dd" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#4a60dd)
 [<img src="https://img.shields.io/badge/Rogun%20Coral-%23ff5757-ff5757" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#ff5757)
 [<img src="https://img.shields.io/badge/Rogun%20Light%20Gray-%23ededee-ededee" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#ededee)
+
+### [`zer0ken/branding/act2025`](https://github.com/zer0ken/branding/tree/main/act2025)
+
+[<img src="https://img.shields.io/badge/act%20blue-%23007BFF-007BFF" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#007BFF)
+[<img src="https://img.shields.io/badge/act%20purple-%239B59B6-9B59B6" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#9B59B6)
+[<img src="https://img.shields.io/badge/act%20coral-%23EA5885-EA5885" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#EA5885)
+[<img src="https://img.shields.io/badge/act%20kentech%20blue-%232D558B-2D558B" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#2D558B)
+[<img src="https://img.shields.io/badge/act%20kentech%20ice-%23CEF2FF-CEF2FF" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#CEF2FF)
