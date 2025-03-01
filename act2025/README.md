@@ -130,16 +130,16 @@ A.C.T의 특정 프로젝트나 팀을 대표하기 위해 새로운 CI 디자�
 이 CI 디자인에는 체계적인 **색상 시스템**이 포함되어있지 않습니다. 디자인 샘플을 만들기 위해 임의로 선택해 사용한 색은 다음과 같습니다.
 
 - 고유한 색상
-  - `act-blue`: `#007BFF`
-  - `act-purple`: `#9B59B6`
-  - `act-coral`: `#EA5885`
-  - `act-kentech-blue`: `#2D558B`
-  - `act-kentech-ice`: `#CEF2FF`
+  - [<img src="https://img.shields.io/badge/act%20blue-%23007BFF-007BFF" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#007BFF)
+  - [<img src="https://img.shields.io/badge/act%20purple-%239B59B6-9B59B6" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#9B59B6)
+  - [<img src="https://img.shields.io/badge/act%20coral-%23EA5885-EA5885" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#EA5885)
+  - [<img src="https://img.shields.io/badge/act%20kentech%20blue-%232D558B-2D558B" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#2D558B)
+  - [<img src="https://img.shields.io/badge/act%20kentech%20ice-%23CEF2FF-CEF2FF" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#CEF2FF)
+- 디자이너의 시그니처 색상
+  - [<img src="https://img.shields.io/badge/zer0ken%20midnight-%23292d3e-292d3e" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#292d3e)
 - 일반적인 색상
   - `black`: `#000000`
   - `white`: `#FFFFFF`
-- 디자이너의 시그니처 색상
-  - `zer0ken-midnight`: `#292D3E`
 
 CI 디자인을 사용할 때는 상황에 맞게 적절한 색을 직접 적용하세요.
 
