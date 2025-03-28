@@ -12,6 +12,7 @@
         <th><a href="./tetris-ie/"><code>tetris-ie</code></a></th>
         <th><a href="./act2025/"><code>act2025</code></a></th>
         <th><a href="./8ollow-me/"><code>8ollow-me</code></a></th>
+        <th><a href="./programmers/"><code>programmers</code></a></th>
     </tr>
     <tr>
         <td align=center><a href="./logo2025/"><img width="100" src="logo2025/logo2025-grad.png"></a></td>
@@ -27,5 +28,12 @@
         <td align=center><a href="./tetris-ie/"><img src="tetris-ie/icon.png"></a></td>
         <td align=center><a href="./act2025/"><img width="100" src="act2025/오리지널.png"></a></td>
         <td align=center><a href="./8ollow-me/"><img width="100" src="8ollow-me/투명.png"></a></td>
+        <td align=center>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.png"></a>
+            <br>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.png"></a>
+            <br>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png"></a>
+        </td>
     </tr>
 </table>
