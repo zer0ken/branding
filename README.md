@@ -29,11 +29,11 @@
         <td align=center><a href="./act2025/"><img width="100" src="act2025/오리지널.png"></a></td>
         <td align=center><a href="./8ollow-me/"><img width="100" src="8ollow-me/투명.png"></a></td>
         <td align=center>
-            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.png"></a>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg"></a>
             <br>
-            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.png"></a>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.svg"></a>
             <br>
-            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png"></a>
+            <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg"></a>
         </td>
     </tr>
 </table>
