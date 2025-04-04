@@ -30,10 +30,11 @@
     </tr>
     <!-- 1행 -->
     <tr>
-        <th><a href="./programmers/"><code>programmers</code></a></th>
         <th><a href="./hire-me-asap/"><code>hire-me-asap</code></a></th>
+        <th><a href="./programmers/"><code>programmers</code></a></th>
     </tr>
     <tr>
+        <td align=center><a href="./hire-me-asap/"><img width="100" src="hire-me-asap/오리지널.png"></a></td>
         <td align=center>
             <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg"></a>
             <br>
@@ -41,6 +42,5 @@
             <br>
             <a href="./programmers/"><img width="100" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg"></a>
         </td>
-        <td align=center><a href="./hire-me-asap/"><img width="100" src="hire-me-asap/오리지널.png"></a></td>
     </tr>
 </table>
