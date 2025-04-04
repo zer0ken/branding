@@ -36,11 +36,11 @@
     <tr>
         <td align=center><a href="./hire-me-asap/"><img src="hire-me-asap/오리지널.png"></a></td>
         <td align=center>
-            <a href="./programmers/"><img src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg"></a>
+            <a href="./programmers/"><img width="120" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg"></a>
             <br>
-            <a href="./programmers/"><img src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.svg"></a>
+            <a href="./programmers/"><img width="120" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.svg"></a>
             <br>
-            <a href="./programmers/"><img src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg"></a>
+            <a href="./programmers/"><img width="120" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg"></a>
         </td>
     </tr>
 </table>
