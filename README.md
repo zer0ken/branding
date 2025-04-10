@@ -13,10 +13,10 @@
         <th><a href="./hire-me-asap/"><code>hire-me-asap</code></a></th>
     </tr>
     <tr>
-        <td align=center><a href="./logo2025/"><img width="100" src="logo2025/logo2025-grad.png"></a></td>
-        <td align=center><a href="./act2025/"><img width="100" src="act2025/오리지널.png"></a></td>
-        <td align=center><a href="./8ollow-me/"><img width="100" src="8ollow-me/투명.png"></a></td>
-        <td align=center><a href="./hire-me-asap/"><img width="100" src="hire-me-asap/오리지널.png"></a></td>
+        <td align=center><a href="./logo2025/"><img width="100px" src="logo2025/logo2025-grad.png"></a></td>
+        <td align=center><a href="./act2025/"><img width="100px" src="act2025/오리지널.png"></a></td>
+        <td align=center><a href="./8ollow-me/"><img width="100px" src="8ollow-me/투명.png"></a></td>
+        <td align=center><a href="./hire-me-asap/"><img width="100px" src="hire-me-asap/오리지널.png"></a></td>
     </tr>
     <!-- 1행 -->
     <tr>
