@@ -33,6 +33,6 @@
 
 ### [`hire-me-asap/*`](https://github.com/hire-me-asap)
 
-[<img src="https://img.shields.io/badge/Hire Me Dark-%232f3840-2f3840" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#2f3840)
+[<img src="https://img.shields.io/badge/Hire Me Black-%232f3840-2f3840" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#2f3840)
 [<img src="https://img.shields.io/badge/Hire Me Red-%23d93b3b-d93b3b" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#d93b3b)
 [<img src="https://img.shields.io/badge/Hire Me Yellow-%23f2c438-f2c438" title="🎨 클릭 후 URL에서 hex code를 복사하세요! 🎨">](#f2c438)

@@ -18,7 +18,7 @@
         <td align=center><a href="./8ollow-me/"><img width="100px" src="8ollow-me/투명.png"></a></td>
         <td align=center><a href="./hire-me-asap/"><img width="100px" src="hire-me-asap/오리지널.png"></a></td>
     </tr>
-    <!-- 1행 -->
+    <!-- 2행 -->
     <tr>
         <th><a href="./colors/"><code>colors</code></a></th>
         <th><a href="./programmers/"><code>programmers</code></a></th>
@@ -41,11 +41,13 @@
             <a href="./programmers/"><img width="120" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg"></a>
         </td>
     </tr>
-    <!-- 1행 -->
+    <!-- 3행 -->
     <tr>
         <th><a href="./tetris-ie/"><code>tetris-ie</code></a></th>
+        <th><a href="./etchwi/"><code>etchwi</code></a></th>
     </tr>
     <tr>
         <td align=center><a href="./tetris-ie/"><img src="tetris-ie/icon.png"></a></td>
+        <td align=center><a href="./etchwi/"><img width="100" src="etchwi/엣취-로고.png"></a></td>
     </tr>
 </table>
